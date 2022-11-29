@@ -2,7 +2,7 @@
 
 ## Jupyter Notebooks para preencher
 
-* [Introdução ao Python](https://colab.research.google.com/github/filipecalegario/intro-programacao-python/blob/main/03_Intro_Python/Intro_Python_para_preencher.ipynb)
+* [Introdução a Python](https://colab.research.google.com/github/filipecalegario/intro-programacao-python/blob/main/03_Intro_Python/Intro_Python_para_preencher.ipynb)
 * [Variáveis](https://colab.research.google.com/github/filipecalegario/intro-programacao-python/blob/main/04_Variaveis_Expressoes_Declaracoes/Variaveis_para_preencher.ipynb)
 * [Comandos Condicionais](https://colab.research.google.com/github/filipecalegario/intro-programacao-python/blob/main/05_Comandos_Condicionais/Comandos_condicionais_para_preencher.ipynb)
 * [Laços de Repetição](https://colab.research.google.com/github/filipecalegario/intro-programacao-python/blob/main/06_Laços/Lacos_Repeticao_para_preencher.ipynb)

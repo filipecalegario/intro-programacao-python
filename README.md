@@ -2,7 +2,7 @@
 
 ## Primeiro desafio
 
-[Primeiros Passos com Turtle]()
+* [Primeiros Passos com Turtle]()
 
 ## Jupyter Notebooks para preencher
 

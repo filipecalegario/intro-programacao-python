@@ -1,5 +1,9 @@
 # Introdução à Programação com Python
 
+## Primeiro desafio
+
+[Primeiros Passos com Turtle]()
+
 ## Jupyter Notebooks para preencher
 
 * [Introdução a Python](https://colab.research.google.com/github/filipecalegario/intro-programacao-python/blob/main/03_Intro_Python/Intro_Python_para_preencher.ipynb) <a href="https://colab.research.google.com/github/filipecalegario/intro-programacao-python/blob/main/03_Intro_Python/Intro_Python_para_preencher.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
